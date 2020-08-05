@@ -1,0 +1,22 @@
+body {
+  background-color: #eeeeee;
+  display: flex;
+}
+
+div {
+  background-color: white;
+  border: 1px solid red;
+  width: 50%;
+  margin: 5px;
+  margin-top: 0;
+}
+
+form {
+  text-align: center;
+}
+
+form #boton {
+  width: 60%;
+  height: 30px;
+  margin: 3px;
+}
